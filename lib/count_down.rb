@@ -6,4 +6,4 @@ while  (count < 11 && count > -1)  do
 count
 count -= 1 
 end
-puts "Happy New Year"
+puts "Happy New Year!"
