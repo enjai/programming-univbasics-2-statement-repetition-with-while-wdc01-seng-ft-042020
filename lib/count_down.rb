@@ -2,7 +2,7 @@
 
 count = 10 
 
-while  (count < 11 && count > -1)  do 
+while >=1  do 
 puts count
 count -= 1 
 end
